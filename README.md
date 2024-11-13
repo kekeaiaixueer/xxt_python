@@ -50,7 +50,9 @@
     </tr>
 </table>
 发布版为开源版，有能力的可以自行补充代码的缺少部分
-## 交流群
+
+## 签到交流群
+
 ![image](https://github.com/user-attachments/assets/ee22c16d-3bd5-4d2f-8ecf-eb560cf9cd9d)
 
 
