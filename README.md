@@ -51,7 +51,7 @@
 </table>
 发布版为开源版，有能力的可以自行补充代码的缺少部分
 
-## 签到交流群
+## 签到交流群 2024/11/16日前自动签到免费使用
 群号：736521378
 ![image](https://github.com/user-attachments/assets/ee22c16d-3bd5-4d2f-8ecf-eb560cf9cd9d)
 
