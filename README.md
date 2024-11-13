@@ -40,24 +40,13 @@
     </tr>
     <tr>
         <td>多用户</td>
-        <td>不支持</td>
-        <td>支持至多2账号</td>
+        <td>看你心情开几个窗口就是几个号</td>
+        <td>看你心情开几个窗口就是几个号</td>
     </tr>
     <tr>
         <td colspan=2>使用方式</td>
-        <td><a href="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/main/LICENSE">GPLv3许可证</a></td>
-        <td>仅供您和您的朋友使用，不支持共享给陌生人使用</td>
-    </tr>
-    <tr>
-        <td rowspan=2>部署教程</td>
-        <td>服务端</td>
-        <td>自行部署<a href="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/main/server/README.md">教程</a></td>
-        <td>默认使用我们的服务器 (可<a href="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/main/server/README.md">自行部署</a>)</td>
-    </tr>
-    <tr>
-        <td>小程序端</td>
-        <td>自行部署<a href="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/main/miniprogram/README.md">教程</a></td>
-        <td>填写问卷，提供小程序代码上传密钥 (<a href="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/main/miniprogram/no-open.md">填写教程</a>)</td>
+        <td>启动后登录账号等待签到发布</td>
+        <td>发布签到前启动程序自动签到</td>
     </tr>
 </table>
 发布版为开源版，有能力的可以自行补充代码的缺少部分
