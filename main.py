@@ -208,22 +208,6 @@ def selected_course(coursedata):
         return selected_course
     else:
         print("输入的序号无效！")
-# 获取签到码
-def signCode(aid, session, header):
-    # 签到码API URL
-    url = 'https://mobilelearn.chaoxing.com/widget/sign/pcTeaSignController/showSignInfo'
-    params = {
-        'activeId': aid
-    }
-    # 发送请求并解析响应
-    r = session.get(url, params=params, headers=header,verify=True, allow_redirects=False)
-    html_data = r.text
-    # 使用正则表达式查找签到码
-    match = re.search(r'<input type="hidden" id="signCode" value="(\d+)"\s*/?>', html_data)
-    if match:
-        return match.group(1)  # 提取签到码
-    else:
-        return None
 
 # 执行预签到
 def YQD(aid, courseId, classId, uid):
@@ -426,7 +410,7 @@ if __name__ == "__main__":
             print("加载课程数据失败。")
             continue  # 如果数据加载失败，重新开始循环
 
-        course_selection = selected_course(coursedata)  # 假设选择课程的函数名为 select_course
+        course_selection = selected_course(coursedata)
         if course_selection is None:
             print("未选择有效课程。")
             continue  # 如果没有有效的课程，重新开始循环
@@ -439,7 +423,7 @@ if __name__ == "__main__":
         other_id = selected_activity['otherId']
         if selected_activity['id'] is not None:
             pas = YQD(selected_activity['id'], course_selection['courseid'], course_selection['classid'], uid)
-            if pas != "签到成功":  # 假设"已签到"是成功签到的标志
+            if pas != "签到成功":  
                 other_id, ifp_id = SX(selected_activity['id'])  # 调用SX函数获取otherId和ifp_id
 
                 # 根据other_id的值执行不同的签到流程
