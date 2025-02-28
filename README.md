@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td>👥 多账号支持</td>
-    <td colspan="2">💡 通过多开窗口实现（无限制）</td>
+    <td colspan="4">💡 通过多开窗口实现（无限制）</td>
   </tr>
 </table>
 
