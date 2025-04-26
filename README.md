@@ -19,7 +19,7 @@
 *   🌐 **御坂网络**: [https://cx.micono.eu.org/](https://cx.micono.eu.org/)
     *   *特色：小程序 + 网页，随时随地签到*
 *   💎 **上签**: [https://api2.function.icu/](https://api2.function.icu/)
-    *   *特色：致力于提供更优质的付费体验，优先保障付费用户服务*
+    *   *特色：致力于为富哥富姐带来远超WAADRI的体验，将白嫖用户拦在外面给付费用户腾空间，24小时为你服务*
 *   🐈 **修猫的学习助手**: [https://xiucat.top/](https://xiucat.top/)
     *   *特色：小程序 + 网页，便捷签到*
 *   📶 **河南省WiFi研究所**: [https://www.waadri.top/](https://www.waadri.top/)
