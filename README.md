@@ -3,9 +3,14 @@
 25年4月前后xxt对大部分接口进行了处理导致很多功能受限，我更新欲望也不大，还有几个等着我更新好偷我接口的...
 
 ## 朋友的小网站
-# 御坂网络：https://cx.micono.eu.org/
-# 上签：https://api2.function.icu/
-
+### 御坂网络：https://cx.micono.eu.org/
+####小程序+网页，随时随地都能签到
+### 上签：https://api2.function.icu/
+####致力于为富哥富姐带来远超WAADRI的体验，将白嫖用户拦在外面给付费用户腾空间，24小时为你服务
+### 修猫的学习助手： https://xiucat.top/
+####小程序+网页，随时随地都能签到
+### 河南省WiFi研究所：https://www.waadri.top/
+####小程序+网页，随时随地都能签到
 ## 🛠️ 功能对比
 <table>
   <tr>
