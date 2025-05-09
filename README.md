@@ -15,7 +15,8 @@
 ## 🌟 生态与社区伙伴
 
 探索更多由朋友们维护的优秀项目和服务：
-
+*   🌐 **不想去上课**:
+    *   *特色：小程序 + exe自动签，随时随地签到*
 *   🌐 **御坂网络**: [https://cx.micono.eu.org/](https://cx.micono.eu.org/)
     *   *特色：小程序 + 网页，随时随地签到*
 *   💎 **上签**: [https://api2.function.icu/](https://api2.function.icu/)
