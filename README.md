@@ -65,12 +65,7 @@
 </p>
 
 **配套扫码小程序 (用于闭源版二维码签到):**
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a338a208-1f7f-413c-b192-9068ff0d72a4" alt="扫码小程序" width="250"/>
-  <br><em>扫码体验小程序</em>
-</p>
-
+目前新扫码小程序已经切换为“星蝉”
 ---
 
 ## 📜 版本与声明
